@@ -28,5 +28,17 @@
   },
   "backend": {
     "imageid": "dotnet"
-  }
+  },
+  "assets": {
+    "client": [
+      {
+        "file": "katacodacomakbarrizqidotnetcore.csproj",
+        "target": "~/"
+      },
+      {
+        "file": "Program.cs",
+        "target": "~/"
+      }
+    ]
+}
 }
